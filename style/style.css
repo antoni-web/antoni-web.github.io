@@ -15,7 +15,7 @@ body{
     height: 100px;
     line-height: 100px;
     text-align: center;
-    color: #91be26;
+    color: azure;
     margin: 0 16px;
     transition: .4s linear;
     position: relative;
@@ -23,6 +23,7 @@ body{
 
 .sm a::before, .sm a::after{
     content: '';
+    color: #91be26;
     position: absolute;
     box-sizing: border-box;
     width: 100px;
@@ -34,6 +35,7 @@ body{
 
 .sm a::hover{
     transform: scale(.8);
+    color: #91be26;
 }
 
 .sm a:hover::before{
