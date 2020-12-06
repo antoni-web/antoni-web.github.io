@@ -5,7 +5,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #5ea8ec;
+    background-color: #0b2b49;
 }
 
 .sm a{
@@ -15,7 +15,7 @@ body{
     height: 100px;
     line-height: 100px;
     text-align: center;
-    color: #7a050f;
+    color: #91be26;
     margin: 0 16px;
     transition: .4s linear;
     position: relative;
