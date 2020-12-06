@@ -35,7 +35,7 @@ body{
 
 .sm a::hover{
     transform: scale(.8);
-    color: #91be26;
+
 }
 
 .sm a:hover::before{
