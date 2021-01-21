@@ -8,6 +8,18 @@ body{
     background-color: #0b2b49;
 }
 
+.main{
+    display: inline;
+}
+
+.main .profil img{
+    position: absolute;
+    left: 43%;
+    border-radius: 70%;
+    border: #12232E solid ;
+    transform: translate(0, -150%);
+}
+
 .sm a{
     display: inline-block;
     font-size: 40px;
@@ -23,7 +35,7 @@ body{
 
 .sm a::before, .sm a::after{
     content: '';
-    color: #91be26;
+    color:#202020;
     position: absolute;
     box-sizing: border-box;
     width: 100px;
